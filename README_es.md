@@ -1,0 +1,47 @@
+# Desafíos prácticos de AWS
+
+**Idiomas:** [English](README.md) · [简体中文](README_zh.md) · [日本語](README_ja.md) · [Español](README_es.md) · [Français](README_fr.md) · [Deutsch](README_de.md) · [Русский](README_ru.md) · [한국어](README_ko.md) · [Português](README_pt.md)
+
+<p align="center">
+  <a href="https://labex.io/es/learn/aws">
+    <img width="128" src="https://file.labex.io/path/cfdkmp8X4Kpv.png" alt="AWS">
+  </a>
+</p>
+
+Empieza con fundamentos de AWS, almacenamiento y permisos; continúa con redes, cómputo y bases de datos. Integra lo aprendido en proyectos Web y Serverless. Añade seguridad, monitoreo, mensajes, flujos y despliegue automatizado; explora DNS/CDN, contenedores, almacenamiento compartido, caché, análisis e IA según tus necesidades. Pasa de laboratorios guiados a desafíos independientes, practicando diagnóstico y limpieza. Complementa la preparación de certificaciones AWS con estas prácticas y la guía del examen elegido.
+
+[Iniciar desafíos en LabEx](https://labex.io/es/learn/aws)
+
+Explora hasta 22 desafíos específicos de AWS en LabEx. Cada desafío se abre en un entorno interactivo para practicar habilidades concretas.
+
+|   Índice | Nombre                                                                                                                                            | Dificultad   | Práctica                                                                                                       |
+|----------|---------------------------------------------------------------------------------------------------------------------------------------------------|--------------|----------------------------------------------------------------------------------------------------------------|
+|       01 | [Recuperar mensajes problemáticos sin duplicar pedidos](https://labex.io/es/labs/aws-recover-poison-messages-without-duplicating-orders-727208)   | Principiante | [Iniciar desafío](https://labex.io/es/labs/aws-recover-poison-messages-without-duplicating-orders-727208)      |
+|       02 | [Diagnose a Stale Content Update](https://labex.io/es/labs/aws-diagnose-a-stale-content-update-728154)                                            | Principiante | [Iniciar desafío](https://labex.io/es/labs/aws-diagnose-a-stale-content-update-728154)                         |
+|       03 | [Restaurar datos de aplicación y reconstruir recursos](https://labex.io/es/labs/aws-restore-application-data-and-rebuild-resources-727717)        | Principiante | [Iniciar desafío](https://labex.io/es/labs/aws-restore-application-data-and-rebuild-resources-727717)          |
+|       04 | [Reparar una versión fallida de la aplicación](https://labex.io/es/labs/aws-repair-a-failed-application-release-727716)                           | Principiante | [Iniciar desafío](https://labex.io/es/labs/aws-repair-a-failed-application-release-727716)                     |
+|       05 | [Desplegar una aplicación privada de pedidos](https://labex.io/es/labs/aws-launch-a-private-order-application-727715)                             | Principiante | [Iniciar desafío](https://labex.io/es/labs/aws-launch-a-private-order-application-727715)                      |
+|       06 | [La plantilla usa una referencia de recurso incorrecta](https://labex.io/es/labs/aws-the-template-uses-the-wrong-resource-reference-727663)       | Principiante | [Iniciar desafío](https://labex.io/es/labs/aws-the-template-uses-the-wrong-resource-reference-727663)          |
+|       07 | [La aplicación de pedidos conecta a la base equivocada](https://labex.io/es/labs/aws-the-order-application-connects-to-the-wrong-database-727657) | Principiante | [Iniciar desafío](https://labex.io/es/labs/aws-the-order-application-connects-to-the-wrong-database-727657)    |
+|       08 | [El tráfico falla tras añadir un servidor](https://labex.io/es/labs/aws-traffic-fails-after-adding-a-new-server-727652)                           | Principiante | [Iniciar desafío](https://labex.io/es/labs/aws-traffic-fails-after-adding-a-new-server-727652)                 |
+|       09 | [Restaurar el servidor de informes tras un error de disco](https://labex.io/es/labs/aws-restore-the-report-server-after-a-disk-mistake-727645)    | Principiante | [Iniciar desafío](https://labex.io/es/labs/aws-restore-the-report-server-after-a-disk-mistake-727645)          |
+|       10 | [La aplicación privada no puede acceder al almacenamiento](https://labex.io/es/labs/aws-the-private-application-cannot-reach-storage-727529)      | Principiante | [Iniciar desafío](https://labex.io/es/labs/aws-the-private-application-cannot-reach-storage-727529)            |
+|       11 | [La aplicación no puede leer su secreto](https://labex.io/es/labs/aws-the-application-cannot-read-its-secret-727210)                              | Principiante | [Iniciar desafío](https://labex.io/es/labs/aws-the-application-cannot-read-its-secret-727210)                  |
+|       12 | [Faltan recursos en el inventario](https://labex.io/es/labs/aws-missing-resources-in-the-inventory-727101)                                        | Principiante | [Iniciar desafío](https://labex.io/es/labs/aws-missing-resources-in-the-inventory-727101)                      |
+|       13 | [Completar un flujo de informes de pedidos](https://labex.io/es/labs/aws-complete-an-order-report-workflow-727206)                                | Principiante | [Iniciar desafío](https://labex.io/es/labs/aws-complete-an-order-report-workflow-727206)                       |
+|       14 | [Los trabajos fallidos nunca llegan a la cola de recuperación](https://labex.io/es/labs/aws-failed-jobs-never-reach-the-recovery-queue-727200)    | Principiante | [Iniciar desafío](https://labex.io/es/labs/aws-failed-jobs-never-reach-the-recovery-queue-727200)              |
+|       15 | [El flujo informa de éxito sin completar el trabajo](https://labex.io/es/labs/aws-the-workflow-reports-success-without-completing-the-job-727194) | Principiante | [Iniciar desafío](https://labex.io/es/labs/aws-the-workflow-reports-success-without-completing-the-job-727194) |
+|       16 | [Lanzar una API privada de pedidos](https://labex.io/es/labs/aws-launch-a-private-order-api-727184)                                               | Principiante | [Iniciar desafío](https://labex.io/es/labs/aws-launch-a-private-order-api-727184)                              |
+|       17 | [Los pedidos privados están disponibles sin iniciar sesión](https://labex.io/es/labs/aws-private-orders-are-available-without-sign-in-727180)     | Principiante | [Iniciar desafío](https://labex.io/es/labs/aws-private-orders-are-available-without-sign-in-727180)            |
+|       18 | [El procesador de informes lee el objeto equivocado](https://labex.io/es/labs/aws-the-report-processor-reads-the-wrong-object-727161)             | Principiante | [Iniciar desafío](https://labex.io/es/labs/aws-the-report-processor-reads-the-wrong-object-727161)             |
+|       19 | [La alerta vigila la aplicación equivocada](https://labex.io/es/labs/aws-the-alert-watches-the-wrong-application-727148)                          | Principiante | [Iniciar desafío](https://labex.io/es/labs/aws-the-alert-watches-the-wrong-application-727148)                 |
+|       20 | [La consulta de pedidos omite registros recientes](https://labex.io/es/labs/aws-the-order-lookup-misses-recent-records-727122)                    | Principiante | [Iniciar desafío](https://labex.io/es/labs/aws-the-order-lookup-misses-recent-records-727122)                  |
+|       21 | [El trabajador de informes tiene demasiado acceso](https://labex.io/es/labs/aws-the-report-worker-has-too-much-access-727116)                     | Principiante | [Iniciar desafío](https://labex.io/es/labs/aws-the-report-worker-has-too-much-access-727116)                   |
+|       22 | [Recupera el informe mensual que falta](https://labex.io/es/labs/aws-recover-the-missing-monthly-report-727105)                                   | Principiante | [Iniciar desafío](https://labex.io/es/labs/aws-recover-the-missing-monthly-report-727105)                      |
+
+[Ver más en LabEx](https://labex.io/es/learn/aws)
+
+## Acerca de LabEx
+
+<div align="left"><p><a href="https://labex.io/es"><strong>LabEx</strong></a> es una <strong>plataforma de aprendizaje práctico para principiantes</strong>.</p><p>Explora <a href="https://labex.io/es/learn/linux"><strong>Linux</strong></a>, <a href="https://labex.io/es/learn/devops"><strong>DevOps</strong></a>, <a href="https://labex.io/es/learn/cybersecurity"><strong>Cybersecurity</strong></a> y <strong>mucho más</strong>, todo directamente en tu navegador.</p><p>Aprende paso a paso con <strong>laboratorios interactivos</strong>, <strong>ejercicios guiados</strong> y <strong>proyectos reales</strong>. 🌱<br />Sin configuración ni estrés: solo practica y desarrolla tus habilidades haciendo.</p><br /><p><a href="https://apps.apple.com/app/id6765840991"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="54" /></a>&nbsp;<a href="https://apps.apple.com/app/id6765840991"><img src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-mac-app-store.svg" alt="Download on the Mac App Store" height="52" /></a></p><br /><p>📖 ¿Necesitas ayuda? Visita nuestro <a href="https://support.labex.io/">Centro de ayuda</a> o escribe a info@labex.io</p></div>
+

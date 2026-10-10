@@ -1,0 +1,47 @@
+# Практические испытания AWS
+
+**Языки:** [English](README.md) · [简体中文](README_zh.md) · [日本語](README_ja.md) · [Español](README_es.md) · [Français](README_fr.md) · [Deutsch](README_de.md) · [Русский](README_ru.md) · [한국어](README_ko.md) · [Português](README_pt.md)
+
+<p align="center">
+  <a href="https://labex.io/ru/learn/aws">
+    <img width="128" src="https://file.labex.io/path/cfdkmp8X4Kpv.png" alt="AWS">
+  </a>
+</p>
+
+Начните с основ AWS, хранения и разрешений, затем изучите сети, вычисления и базы данных. Объедините навыки в Web- и Serverless-проектах. Добавьте безопасность, мониторинг, сообщения, процессы и автоматизированное развёртывание; по необходимости изучайте DNS/CDN, контейнеры, общее хранилище, кэш, аналитику и ИИ. Переходите от пошаговых уроков к самостоятельным заданиям, практикуя диагностику и очистку. Эта практика помогает подготовке к сертификации AWS вместе с руководством выбранного экзамена.
+
+[Начать испытания на LabEx](https://labex.io/ru/learn/aws)
+
+Просмотрите до 22 целевых испытаний AWS на LabEx. Каждое испытание открывается в интерактивной среде для отработки конкретных навыков.
+
+|   Индекс | Название                                                                                                                                            | Сложность   | Практика                                                                                                        |
+|----------|-----------------------------------------------------------------------------------------------------------------------------------------------------|-------------|-----------------------------------------------------------------------------------------------------------------|
+|       01 | [Восстановление проблемных сообщений без повторных заказов](https://labex.io/ru/labs/aws-recover-poison-messages-without-duplicating-orders-727208) | Начинающий  | [Начать испытание](https://labex.io/ru/labs/aws-recover-poison-messages-without-duplicating-orders-727208)      |
+|       02 | [Diagnose a Stale Content Update](https://labex.io/ru/labs/aws-diagnose-a-stale-content-update-728154)                                              | Начинающий  | [Начать испытание](https://labex.io/ru/labs/aws-diagnose-a-stale-content-update-728154)                         |
+|       03 | [Восстановить данные приложения и перестроить ресурсы](https://labex.io/ru/labs/aws-restore-application-data-and-rebuild-resources-727717)          | Начинающий  | [Начать испытание](https://labex.io/ru/labs/aws-restore-application-data-and-rebuild-resources-727717)          |
+|       04 | [Исправить неисправный выпуск приложения](https://labex.io/ru/labs/aws-repair-a-failed-application-release-727716)                                  | Начинающий  | [Начать испытание](https://labex.io/ru/labs/aws-repair-a-failed-application-release-727716)                     |
+|       05 | [Запустить закрытое приложение заказов](https://labex.io/ru/labs/aws-launch-a-private-order-application-727715)                                     | Начинающий  | [Начать испытание](https://labex.io/ru/labs/aws-launch-a-private-order-application-727715)                      |
+|       06 | [Шаблон использует неверную ссылку на ресурс](https://labex.io/ru/labs/aws-the-template-uses-the-wrong-resource-reference-727663)                   | Начинающий  | [Начать испытание](https://labex.io/ru/labs/aws-the-template-uses-the-wrong-resource-reference-727663)          |
+|       07 | [Приложение заказов подключается к неправильной базе](https://labex.io/ru/labs/aws-the-order-application-connects-to-the-wrong-database-727657)     | Начинающий  | [Начать испытание](https://labex.io/ru/labs/aws-the-order-application-connects-to-the-wrong-database-727657)    |
+|       08 | [Сбой трафика после добавления сервера](https://labex.io/ru/labs/aws-traffic-fails-after-adding-a-new-server-727652)                                | Начинающий  | [Начать испытание](https://labex.io/ru/labs/aws-traffic-fails-after-adding-a-new-server-727652)                 |
+|       09 | [Восстановить сервер отчётов после ошибки с диском](https://labex.io/ru/labs/aws-restore-the-report-server-after-a-disk-mistake-727645)             | Начинающий  | [Начать испытание](https://labex.io/ru/labs/aws-restore-the-report-server-after-a-disk-mistake-727645)          |
+|       10 | [Частное приложение не может обратиться к хранилищу](https://labex.io/ru/labs/aws-the-private-application-cannot-reach-storage-727529)              | Начинающий  | [Начать испытание](https://labex.io/ru/labs/aws-the-private-application-cannot-reach-storage-727529)            |
+|       11 | [Приложение не может прочитать свой секрет](https://labex.io/ru/labs/aws-the-application-cannot-read-its-secret-727210)                             | Начинающий  | [Начать испытание](https://labex.io/ru/labs/aws-the-application-cannot-read-its-secret-727210)                  |
+|       12 | [Недостающие ресурсы в инвентаризации](https://labex.io/ru/labs/aws-missing-resources-in-the-inventory-727101)                                      | Начинающий  | [Начать испытание](https://labex.io/ru/labs/aws-missing-resources-in-the-inventory-727101)                      |
+|       13 | [Завершение процесса отчётов о заказах](https://labex.io/ru/labs/aws-complete-an-order-report-workflow-727206)                                      | Начинающий  | [Начать испытание](https://labex.io/ru/labs/aws-complete-an-order-report-workflow-727206)                       |
+|       14 | [Неудачные задания не попадают в очередь восстановления](https://labex.io/ru/labs/aws-failed-jobs-never-reach-the-recovery-queue-727200)            | Начинающий  | [Начать испытание](https://labex.io/ru/labs/aws-failed-jobs-never-reach-the-recovery-queue-727200)              |
+|       15 | [Процесс сообщает об успехе, не завершив задание](https://labex.io/ru/labs/aws-the-workflow-reports-success-without-completing-the-job-727194)      | Начинающий  | [Начать испытание](https://labex.io/ru/labs/aws-the-workflow-reports-success-without-completing-the-job-727194) |
+|       16 | [Запуск частного API заказов](https://labex.io/ru/labs/aws-launch-a-private-order-api-727184)                                                       | Начинающий  | [Начать испытание](https://labex.io/ru/labs/aws-launch-a-private-order-api-727184)                              |
+|       17 | [Приватные заказы доступны без входа](https://labex.io/ru/labs/aws-private-orders-are-available-without-sign-in-727180)                             | Начинающий  | [Начать испытание](https://labex.io/ru/labs/aws-private-orders-are-available-without-sign-in-727180)            |
+|       18 | [Обработчик отчётов читает не тот объект](https://labex.io/ru/labs/aws-the-report-processor-reads-the-wrong-object-727161)                          | Начинающий  | [Начать испытание](https://labex.io/ru/labs/aws-the-report-processor-reads-the-wrong-object-727161)             |
+|       19 | [Сигнал тревоги наблюдает не то приложение](https://labex.io/ru/labs/aws-the-alert-watches-the-wrong-application-727148)                            | Начинающий  | [Начать испытание](https://labex.io/ru/labs/aws-the-alert-watches-the-wrong-application-727148)                 |
+|       20 | [Поиск заказов пропускает недавние записи](https://labex.io/ru/labs/aws-the-order-lookup-misses-recent-records-727122)                              | Начинающий  | [Начать испытание](https://labex.io/ru/labs/aws-the-order-lookup-misses-recent-records-727122)                  |
+|       21 | [У обработчика отчётов слишком много доступа](https://labex.io/ru/labs/aws-the-report-worker-has-too-much-access-727116)                            | Начинающий  | [Начать испытание](https://labex.io/ru/labs/aws-the-report-worker-has-too-much-access-727116)                   |
+|       22 | [Восстановите недостающий месячный отчёт](https://labex.io/ru/labs/aws-recover-the-missing-monthly-report-727105)                                   | Начинающий  | [Начать испытание](https://labex.io/ru/labs/aws-recover-the-missing-monthly-report-727105)                      |
+
+[Посмотреть больше на LabEx](https://labex.io/ru/learn/aws)
+
+## О LabEx
+
+<div align="left"><p><a href="https://labex.io/ru"><strong>LabEx</strong></a> — это <strong>платформа практического обучения для начинающих</strong>.</p><p>Изучайте <a href="https://labex.io/ru/learn/linux"><strong>Linux</strong></a>, <a href="https://labex.io/ru/learn/devops"><strong>DevOps</strong></a>, <a href="https://labex.io/ru/learn/cybersecurity"><strong>Cybersecurity</strong></a> и <strong>многое другое</strong> прямо в браузере.</p><p>Учитесь шаг за шагом с помощью <strong>интерактивных лабораторий</strong>, <strong>пошаговых упражнений</strong> и <strong>практических проектов</strong>. 🌱<br />Без настройки и лишнего стресса — просто практикуйтесь и развивайте навыки на практике.</p><br /><p><a href="https://apps.apple.com/app/id6765840991"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="54" /></a>&nbsp;<a href="https://apps.apple.com/app/id6765840991"><img src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-mac-app-store.svg" alt="Download on the Mac App Store" height="52" /></a></p><br /><p>📖 Нужна помощь? Посетите наш <a href="https://support.labex.io/">справочный центр</a> или напишите на info@labex.io</p></div>
+
